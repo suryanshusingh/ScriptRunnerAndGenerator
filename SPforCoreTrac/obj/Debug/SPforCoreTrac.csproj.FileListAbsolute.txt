@@ -1,0 +1,16 @@
+c:\users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\bin\Debug\SPforCoreTrac.exe.config
+c:\users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\bin\Debug\SPforCoreTrac.exe
+c:\users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\bin\Debug\SPforCoreTrac.pdb
+c:\users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\obj\Debug\SPforCoreTrac.Form1.resources
+c:\users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\obj\Debug\SPforCoreTrac.Properties.Resources.resources
+c:\users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\obj\Debug\SPforCoreTrac.csproj.GenerateResource.Cache
+c:\users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\obj\Debug\SPforCoreTrac.csproj.CoreCompileInputs.cache
+c:\users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\obj\Debug\SPforCoreTrac.exe
+c:\users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\obj\Debug\SPforCoreTrac.pdb
+C:\Users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\obj\Debug\SPforCoreTrac.ScriptRunner.resources
+C:\Users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\obj\Debug\SPforCoreTrac.UserControls.RunScriptUC.resources
+C:\Users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\obj\Debug\SPforCoreTrac.UserControls.SettingsUC.resources
+C:\Users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\obj\Debug\SPforCoreTrac.UserControls.SettingsDatabaseUC.resources
+C:\Users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\obj\Debug\SPforCoreTrac.UserControls.SettingsAppUC.resources
+C:\Users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\obj\Debug\SPforCoreTrac.UserControls.GenerateScriptUC.resources
+C:\Users\ssingh3\source\repos\SPforCoreTrac\SPforCoreTrac\obj\Debug\SPforCoreTrac.csprojResolveAssemblyReference.cache
